@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">👋 Hi there! I'm Med Dhia Bouthouri from Tunisia. I'm passionate about technology and software development. Here's a bit about what I'm up to:<br><br><br>- 🔭 I’m working as full stack developper<br>- 📚I'm constantly learning and improving my skills. Currently, I'm diving deeper into react eco-systems and i have an intrest in three js, blender, AR, VR.<br>- ⚡ In my free time  I love building side projects, from website templates to SaaS apps. Whether I'm coding, exploring the outdoors, or diving into a good book.<br><br>Feel free to connect with me and explore some of my projects below. Let's build something awesome together! 🚀</p>
+<p align="left">👋 Hi there! I'm Med Dhia Bouthouri from Tunisia. I'm passionate about technology and software development. Here's a bit about what I'm up to:<br><br><br>- 🔭 I’m working as full stack developper<br>- 📚I'm constantly learning and improving my skills. Currently, I'm diving deeper into react eco-systems and i have an intrest in three js, blender, AR, VR.<br>- ⚡ In my free time  I love building side projects, from website templates to SaaS apps. Whether I'm coding, exploring the outdoors, or diving into a good book. I'm always up for an adventure!<br><br>Feel free to connect with me and explore some of my projects below. Let's build something awesome together! 🚀</p>
 
 ###
 
