@@ -1,6 +1,10 @@
-<h1 align="center"><a href="https://www.bouthouri.co">Portfolio</a></h1>
+<h1 style="height: 100px; display: flex; align-items:center; justify-content:center">👋 Hi there! I'm Med Dhia Bouthouri</h1>
 
 <div align="center">
+<a href="https://www.bouthouri.co/" target="_blank">
+    <img src="https://cdn.discordapp.com/attachments/1224744152214802525/1247453208155000834/Capture.PNG?ex=666014d5&is=665ec355&hm=a3adc3d59f1d180aef29106a79e7e5ed804e73e0be61c7698e44e0c83e385ada&" height="30" style="position: relative; top: 5px;" alt="linkedin logo" />
+</a>
+
   <a href="https://www.linkedin.com/in/med-dhia-bouthouri/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -25,7 +29,7 @@
 
 ###
 
-<p align="left">👋 Hi there! I'm Med Dhia Bouthouri from Tunisia. I'm passionate about technology and software development. Here's a bit about what I'm up to:<br><br><br>- 🔭 I’m working as full stack developper<br>- 📚I'm constantly learning and improving my skills. Currently, I'm diving deeper into react eco-systems and i have an intrest in three js, blender, AR, VR.<br>- ⚡ In my free time  I love building side projects, from website templates to SaaS apps. Whether I'm coding, exploring the outdoors, or diving into a good book. I'm always up for an adventure!<br><br>Feel free to connect with me and explore some of my projects below. Let's build something awesome together! 🚀</p>
+<p align="left">I'm passionate about technology and software development. Here's a bit about what I'm up to:<br><br>- 🔭 I’m working as full stack developper<br>- 📚I'm constantly learning and improving my skills. Currently, I'm diving deeper into react eco-systems and i have an intrest in three js, blender, AR, VR.<br>- ⚡ In my free time  I love building side projects, from website templates to SaaS apps. Whether I'm coding, exploring the outdoors, or diving into a good book. I'm always up for an adventure!<br><br>Feel free to connect with me and explore some of my projects below. Let's build something awesome together! 🚀</p>
 
 ###
 
