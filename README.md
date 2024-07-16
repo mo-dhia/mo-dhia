@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="https://www.bouthouri.co/" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/1224744152214802525/1247453208155000834/Capture.PNG?ex=666014d5&is=665ec355&hm=a3adc3d59f1d180aef29106a79e7e5ed804e73e0be61c7698e44e0c83e385ada&" height="30" style="position: relative; top: 5px;" alt="linkedin logo" />
+    <img src="https://med-d-bouthouri.vercel.app/github.png" height="30" style="position: relative; top: 5px;" alt="portfolio  logo" />
 </a>
 
   <a href="https://www.linkedin.com/in/med-dhia-bouthouri/" target="_blank">
