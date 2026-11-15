@@ -22,6 +22,9 @@ Remote, available to teams in the Gulf, Europe and the US · <a href="https://ww
   <a href="https://contra.com/med_dhia_saj1p8rj" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Contra&logo=contra&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="contra logo"  />
   </a>
+  <a href="https://www.twine.net/bouthouri" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twine&label=&color=2F2F8F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twine logo"  />
+  </a>
   <a href="https://t.me/medbouthouri" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
