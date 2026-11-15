@@ -1,4 +1,9 @@
-<h1 style="height: 100px; display: flex; align-items:center; justify-content:center">👋 Hi there! I'm Med Dhia Bouthouri</h1>
+<h1 align="center">Med D. Bouthouri</h1>
+
+<p align="center"><b>Software Engineer &amp; Creative Developer</b> · Frontend Lead at FORAXION (The Forecasting Machine)<br>
+Remote, available to teams in the Gulf, Europe and the US · <a href="https://www.bouthouri.co/en">www.bouthouri.co</a></p>
+
+<p align="center" dir="rtl">محمد ضياء بوثوري — مهندس برمجيات ومطوّر إبداعي يعمل عن بُعد · <a href="https://www.bouthouri.co/ar">bouthouri.co/ar</a></p>
 
 <div align="center">
 <a href="https://www.bouthouri.co/" target="_blank">
@@ -25,11 +30,20 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻 About me</h3>
 
-###
+I build digital products from the systems behind them to the interactions people experience: React and Next.js platforms, Three.js and WebGL motion, Node.js and Electron tooling.
 
-<p align="left">I'm passionate about technology and software development. Here's a bit about what I'm up to:<br><br>- 🔭 I’m working as full stack developper<br>- 📚I'm constantly learning and improving my skills. Currently, I'm diving deeper into react eco-systems and i have an intrest in three js, blender, AR, VR.<br>- ⚡ In my free time  I love building side projects, from website templates to SaaS apps. Whether I'm coding, exploring the outdoors, or diving into a good book. I'm always up for an adventure!<br><br>Feel free to connect with me and explore some of my projects below. Let's build something awesome together! 🚀</p>
+**Selected work** (case studies on [bouthouri.co](https://www.bouthouri.co/en/projects)):
+
+- **[The Forecasting Machine](https://www.bouthouri.co/en/projects/the-forecasting-machine)**: I rebuilt FORAXION's AI forecasting platform from scratch as one React codebase that ships to web, desktop and mobile, and I own its core architecture in a team of five developers.
+- **[Batiprix](https://www.bouthouri.co/en/projects/batiprix)**: Puppeteer automation that reads supplier sites and PDF catalogues, a React dashboard that replaced Excel, and one React and Electron app for web and Windows. A library of more than 30,000 construction prices moved from yearly to monthly updates.
+- **[Vawzen](https://www.bouthouri.co/en/projects/vawzen)**: an agency website built against the "sea of sameness", with scroll motion on [vz-scroll-interactions](https://www.npmjs.com/package/vz-scroll-interactions), my npm library.
+- **[Artefact Studio](https://www.bouthouri.co/en/projects/artefact)**: a four-language website, including right-to-left Arabic, that hosts the studio's own 360° virtual tours.
+
+**Open source:** [storio](https://www.npmjs.com/package/storio), lightweight React state management on `useSyncExternalStore`.
+
+**Work with me:** [contact@bouthouri.co](mailto:contact@bouthouri.co) · [services](https://www.bouthouri.co/en/services)
 
 ###
 
