@@ -28,6 +28,9 @@ Remote, available to teams in the Gulf, Europe and the US · <a href="https://ww
   <a href="https://peerlist.io/meddbouthouri" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Peerlist&label=&color=00AA45&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="peerlist logo"  />
   </a>
+  <a href="https://hashnode.com/@bouthouri" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Hashnode&logo=hashnode&label=&color=2962FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hashnode logo"  />
+  </a>
   <a href="https://t.me/medbouthouri" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
