@@ -16,6 +16,12 @@ Remote, available to teams in the Gulf, Europe and the US · <a href="https://ww
   <a href="https://www.behance.net/meddbouthouri" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
   </a>
+  <a href="https://www.upwork.com/freelancers/~01f1ae27e921dc11a5" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=14A800&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="upwork logo"  />
+  </a>
+  <a href="https://contra.com/med_dhia_saj1p8rj" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Contra&logo=contra&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="contra logo"  />
+  </a>
   <a href="https://t.me/medbouthouri" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
