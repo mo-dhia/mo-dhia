@@ -37,6 +37,9 @@ Remote, available to teams in the Gulf, Europe and the US · <a href="https://ww
   <a href="https://threejsresources.com/creator-hub/med-d-bouthouri" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Three.js%20Resources&logo=threedotjs&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="three.js resources logo"  />
   </a>
+  <a href="https://mostaql.com/u/bouthouri" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Mostaql&label=&color=2386C8&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="mostaql logo"  />
+  </a>
   <a href="https://t.me/medbouthouri" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
