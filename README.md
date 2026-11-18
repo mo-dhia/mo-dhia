@@ -34,6 +34,9 @@ Remote, available to teams in the Gulf, Europe and the US · <a href="https://ww
   <a href="https://www.youtube.com/@meddbouthouri" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
+  <a href="https://threejsresources.com/creator-hub/med-d-bouthouri" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Three.js%20Resources&logo=threedotjs&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="three.js resources logo"  />
+  </a>
   <a href="https://t.me/medbouthouri" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
@@ -60,6 +63,8 @@ I build digital products from the systems behind them to the interactions people
 - **[Artefact Studio](https://www.bouthouri.co/en/projects/artefact)**: a four-language website, including right-to-left Arabic, that hosts the studio's own 360° virtual tours.
 
 **Open source:** [storio](https://www.npmjs.com/package/storio), lightweight React state management on `useSyncExternalStore`.
+
+**Blog:** [articles on web engineering, React, Next.js, interface design, animation and shaders](https://www.bouthouri.co/en/blog), with code and interactive examples, also [in Arabic](https://www.bouthouri.co/ar/blog).
 
 **Work with me:** [contact@bouthouri.co](mailto:contact@bouthouri.co) · [services](https://www.bouthouri.co/en/services)
 
